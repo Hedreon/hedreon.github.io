@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Monsters Must Die (Demo) Changelog
 
 v1.0:
