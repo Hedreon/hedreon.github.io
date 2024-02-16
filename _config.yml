@@ -1,3 +1,5 @@
+title: Hedreon's Webiste
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -5,8 +7,3 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
-
-title: Hedreon's Webiste
-
-header_pages:
-  - _posts/MMDDChangelog.md
