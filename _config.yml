@@ -8,4 +8,4 @@ minima:
 title: Hedreon's Webiste
 
 header_pages:
-  - MMDDChangelog.md
+  - _posts/MMDDChangelog.md
