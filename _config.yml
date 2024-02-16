@@ -7,7 +7,7 @@ description: >
   An epic thing that's only used for one thing and/or another.
 
 header_pages:
-  - /changelogs/index.md
+  - ./changelogs/index.md
 
 plugins:
   - jekyll-remote-theme
