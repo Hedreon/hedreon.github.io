@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Monsters Must Die (Demo) Changelog"
-permalink: /mmddchangelog/
+permalink: /changelogs/mmdd/
 ---
 
 ## Play the game [here!](https://rblx.games/4910020000)

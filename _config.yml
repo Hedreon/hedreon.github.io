@@ -4,17 +4,14 @@ author:
   name: Made by Hedreon, for Hedreon.
 
 description: >
-  An epic blog thing that's probably temporary or is only used for one thing
-  and/or another.
+  An epic thing that's only used for one thing and/or another.
 
 header_pages:
-  - /mmddchangelog/
+  - changelogs.md
 
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 
 minima:
   skin: dark
-  date_format: "%B %Y"

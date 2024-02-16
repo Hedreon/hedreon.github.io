@@ -1,3 +1,3 @@
 # Hedreon's Webiste
 
-Epic blog thing.
+A thing
