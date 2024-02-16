@@ -7,6 +7,9 @@ description: >
   An epic blog thing that's probably temporary or is only used for one thing
   and/or another.
 
+header_pages:
+  - /mmddchangelog/
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
