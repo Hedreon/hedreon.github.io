@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Monsters Must Die (Demo) Changelog"
 ---
 
 ## Play the game [here!](https://rblx.games/4910020000)
