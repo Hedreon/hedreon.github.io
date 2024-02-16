@@ -1,5 +1,8 @@
 title: Hedreon's Webiste
 
+author:
+  name: Made by Hedreon, for Hedreon
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
