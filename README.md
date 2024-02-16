@@ -1,3 +1,3 @@
-# Hello!
+# Hedreon's Webiste
 
-Epic landing page.
+Epic blog thing.
