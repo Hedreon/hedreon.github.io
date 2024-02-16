@@ -1,7 +1,11 @@
 title: Hedreon's Webiste
 
 author:
-  name: Made by Hedreon, for Hedreon
+  name: Made by Hedreon, for Hedreon.
+
+description: >
+  An epic blog thing that's probably temporary or is only used for one thing
+  and/or another.
 
 plugins:
   - jekyll-feed
