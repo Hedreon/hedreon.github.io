@@ -4,7 +4,7 @@ title: "Monsters Must Die (Demo) Changelog"
 permalink: /changelogs/mmdd/
 ---
 
-## Play the game [here!](https://rblx.games/4910020000)
+## Play <a href="https://rblx.games/4910020000" target="_blank">the game!</a>
 
 **v2.0 (Current version):**
   - Map completely rebuilt from the ground up
